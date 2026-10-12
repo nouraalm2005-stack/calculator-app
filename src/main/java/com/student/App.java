@@ -3,7 +3,8 @@ package com.student;
 public class App {
 
     public static int add(int a, int b) {
-        return a + b;
+        //change + to - in lab 7
+       return a - b;
     }
 
     public static int subtract(int a, int b) {
